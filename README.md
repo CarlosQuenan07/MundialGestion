@@ -6,8 +6,8 @@ En este repositorio se sube el proyecto de emulacion de gestion de un mundial de
 
 ## Empezando
 
-Si es necesario realizar una copia de este repositorio, aqui te facilitamos el link:
-link 
+Si es necesario realizar una copia de este repositorio, aqui te facilitamos el enlace:
+https://github.com/CarlosQuenan07/MundialGestion.git
 
 ### Requisitos previos
 
