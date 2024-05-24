@@ -1,0 +1,3 @@
+Colombia,Sergio Morillo,imagenes/Colombia.png
+Argentina,alberto,imagenes/Argentina.png
+brazil,Fernando Santos,imagenes/Brazil.png

@@ -1,0 +1,15 @@
+servlets\EditarJugador.class
+mundo\Equipo.class
+servlets\EditarEquipo.class
+umariana\mundialfinal\resources\JavaEE8Resource.class
+servlets\EliminarEquipo.class
+mundo\GestionarJugadores.class
+servlets\MostrarEquipo.class
+mundo\GestionarEquipos.class
+servlets\AgregarJugador.class
+servlets\CalcularNominaServlet.class
+umariana\mundialfinal\JAXRSConfiguration.class
+mundo\Jugador.class
+servlets\AgregarEquipo.class
+servlets\MostrarJugadores.class
+servlets\EliminarJugador.class

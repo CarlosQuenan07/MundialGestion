@@ -1,0 +1,3 @@
+Falcao,32,175.0,75.0,5000000.0,Delantero,FALCAO.jpg,Colombia
+Messi,33,150.0,75.0,5000000.0,Delantero,MESSI.jpg,Argentina
+neymar jr,25,200.0,50.0,600000.0,Portero,NEYMAR JR.jpg,brazil
